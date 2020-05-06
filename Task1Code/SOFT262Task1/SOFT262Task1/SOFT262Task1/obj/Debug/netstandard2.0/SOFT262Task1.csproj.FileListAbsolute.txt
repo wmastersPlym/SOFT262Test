@@ -1,0 +1,14 @@
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\bin\Debug\netstandard2.0\SOFT262Task1.deps.json
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\bin\Debug\netstandard2.0\SOFT262Task1.dll
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\bin\Debug\netstandard2.0\ref\SOFT262Task1.dll
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\bin\Debug\netstandard2.0\SOFT262Task1.pdb
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\obj\Debug\netstandard2.0\SOFT262Task1.csprojAssemblyReference.cache
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\obj\Debug\netstandard2.0\SOFT262Task1.csproj.CoreCompileInputs.cache
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\obj\Debug\netstandard2.0\SOFT262Task1.AssemblyInfoInputs.cache
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\obj\Debug\netstandard2.0\SOFT262Task1.AssemblyInfo.cs
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\obj\Debug\netstandard2.0\SOFT262Task1.dll
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\obj\Debug\netstandard2.0\ref\SOFT262Task1.dll
+E:\Documents\c#\Soft262\SOFT262Task1\SOFT262Task1\SOFT262Task1\obj\Debug\netstandard2.0\SOFT262Task1.pdb
