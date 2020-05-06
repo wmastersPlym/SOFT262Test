@@ -1,0 +1,16 @@
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\bin\Debug\netstandard2.0\SOFT262Task2.deps.json
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\bin\Debug\netstandard2.0\SOFT262Task2.dll
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\bin\Debug\netstandard2.0\ref\SOFT262Task2.dll
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\bin\Debug\netstandard2.0\SOFT262Task2.pdb
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\obj\Debug\netstandard2.0\SOFT262Task2.csprojAssemblyReference.cache
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\obj\Debug\netstandard2.0\SOFT262Task2.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\obj\Debug\netstandard2.0\SOFT262Task2.AssemblyInfoInputs.cache
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\obj\Debug\netstandard2.0\SOFT262Task2.AssemblyInfo.cs
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\obj\Debug\netstandard2.0\SOFT262Task2.dll
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\obj\Debug\netstandard2.0\ref\SOFT262Task2.dll
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\obj\Debug\netstandard2.0\SOFT262Task2.pdb
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\obj\Debug\netstandard2.0\Branch.xaml.g.cs
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\obj\Debug\netstandard2.0\Tree.xaml.g.cs
+E:\Documents\GitHub\SOFT262Test\Task2Code\SOFT262Task2\SOFT262Task2\SOFT262Task2\obj\Debug\netstandard2.0\LargeBranch.xaml.g.cs
